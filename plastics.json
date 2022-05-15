@@ -1,0 +1,135 @@
+[
+    {
+        "recylelevel": 1,
+        "name": "tereftalato de polietileno",
+        "id": "PET",
+        "specs": [
+            "lighter",
+             "transparent", 
+             "resistant",
+            "most used"
+        ],
+        "degradation": "150 years",
+        "usedin": [
+            "bottles",
+            "packaging",
+            "fabrics"    
+        ],
+        "notes": "not so good for reusing"
+    },
+    {
+        "recylelevel": 2,
+        "name": "polietileno de alta densidad",
+        "id": "HDPE o PEHD",
+        "specs": [
+            "resistant",
+             "transparent", 
+             "resistant to humidity",
+             "resistant to chemicals"
+        ],
+        "degradation": "150 years",
+        "usedin": [
+            "boxes",
+            "toys",
+            "construction"    
+        ],
+        "notes": "best for recycling"
+        
+    },
+    {
+        "recylelevel": 3,
+        "name": "cloruro de polivinilo",
+        "id": "PVC",
+        "specs": [
+            "strong",
+             "rigid", 
+             "resitant to chemicals",
+             "resistant to outdoors"
+        ],
+        "degradation": "300 years",
+        "usedin": [
+            "construction material",
+            "plumbing",
+            "toys",
+            "medical apps"    
+        ],
+        "notes": "most harmful plastic for health, only reusable not recyclable"
+        
+    },
+    {
+        "recylelevel": 4,
+        "name": "polietileno de baja densidad",
+        "id": "LDPE o PELD",
+        "specs": [
+             "soft",
+             "flexible", 
+             "resistan to corrotion",
+             "resistant to outdoors"
+        ],
+        "degradation": "150 years",
+        "usedin": [
+            "plastic bags",
+            "desposable cups",
+            "film",
+            "medical apps"    
+        ],
+        "notes": "really easy to recycle and reuse"
+        
+    },
+    {
+        "recylelevel": 5,
+        "name": "polipropileno",
+        "id": "PP",
+        "specs": [
+             "",
+             "resistant to heat", 
+             "flexible",
+             "keeps its form"
+        ],
+        "degradation": "150 years",
+        "usedin": [
+            "plastic bags",
+            "desposable cups",
+            "film",
+            "medical apps"    
+        ],
+        "notes": "really easy to recycle and reuse"
+        
+    },
+    {
+        "recylelevel": 6,
+        "name": "poliestireno",
+        "id": "PS",
+        "specs": [
+             "rigid",
+             "cheap", 
+             "toxic filtering",
+             "aisle"
+        ],
+        "degradation": "500 years",
+        "usedin": [
+            "food packaging",
+            "general packaging",
+            "medical apps"    
+        ],
+        "notes": "really hard to recycle"
+        
+    },
+    {
+        "recylelevel": 7,
+        "name": "others",
+        "id": "",
+        "specs": [
+             "mixure of previous classes"
+        ],
+        "degradation": "not specified",
+        "usedin": [
+            "glasses",
+            "baby bottles",
+            "electronics"    
+        ],
+        "notes": "not recyclabe"
+        
+    }
+
+]
