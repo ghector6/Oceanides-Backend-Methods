@@ -7,4 +7,15 @@ describe("Test to see if my methods in services are working", () => {
         const wholeList = plasticServices.printAllPlastics(plastics);
         expect(wholeList.length).toBe(7);
     });
+    test("2) get plastics recyclables", () => {
+        const validation = plasticController.getValidation(false);
+        expect(validation).toMatchObject(
+            [
+                'tereftalato de polietileno',
+                'cloruro de polivinilo',
+                'poliestireno',
+                'others'
+              ]
+        );
+    });
 });
