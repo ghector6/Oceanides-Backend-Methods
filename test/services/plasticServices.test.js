@@ -11,11 +11,11 @@ describe("Test to see if my methods in services are working", () => {
         const validation = plasticController.getValidation(false);
         expect(validation).toMatchObject(
             [
-                'tereftalato de polietileno',
-                'cloruro de polivinilo',
-                'poliestireno',
-                'others'
-              ]
+                "tereftalato de polietileno",
+                "cloruro de polivinilo",
+                "poliestireno",
+                "others"
+            ]
         );
     });
 });

@@ -9,11 +9,11 @@ describe("Test connection between routes", () => {
         const validation = plasticController.getValidation(false);
         expect(validation).toMatchObject(
             [
-                'tereftalato de polietileno',
-                'cloruro de polivinilo',
-                'poliestireno',
-                'others'
-              ]
+                "tereftalato de polietileno",
+                "cloruro de polivinilo",
+                "poliestireno",
+                "others"
+            ]
         );
     });
 });
