@@ -10,7 +10,7 @@
              "resistant",
             "most used"
         ],
-        "degradation": "150 years",
+        "degradation": 150,
         "usedin": [
             "bottles",
             "packaging",
@@ -29,7 +29,7 @@
              "resistant to humidity",
              "resistant to chemicals"
         ],
-        "degradation": "150 years",
+        "degradation": 150,
         "usedin": [
             "boxes",
             "toys",
@@ -49,7 +49,7 @@
              "resitant to chemicals",
              "resistant to outdoors"
         ],
-        "degradation": "300 years",
+        "degradation": 300,
         "usedin": [
             "construction material",
             "plumbing",
@@ -70,7 +70,7 @@
              "resistan to corrotion",
              "resistant to outdoors"
         ],
-        "degradation": "150 years",
+        "degradation": 150,
         "usedin": [
             "plastic bags",
             "desposable cups",
@@ -91,7 +91,7 @@
              "flexible",
              "keeps its form"
         ],
-        "degradation": "150 years",
+        "degradation": 150,
         "usedin": [
             "plastic bags",
             "desposable cups",
@@ -112,7 +112,7 @@
              "toxic filtering",
              "aisle"
         ],
-        "degradation": "500 years",
+        "degradation": 500,
         "usedin": [
             "food packaging",
             "general packaging",
@@ -129,7 +129,7 @@
         "specs": [
              "mixure of previous classes"
         ],
-        "degradation": "not specified",
+        "degradation": 500,
         "usedin": [
             "glasses",
             "baby bottles",
