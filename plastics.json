@@ -1,6 +1,7 @@
 [
     {
         "recylelevel": 1,
+        "recyclable": false,
         "name": "tereftalato de polietileno",
         "id": "PET",
         "specs": [
@@ -19,6 +20,7 @@
     },
     {
         "recylelevel": 2,
+        "recyclable": true,
         "name": "polietileno de alta densidad",
         "id": "HDPE o PEHD",
         "specs": [
@@ -38,6 +40,7 @@
     },
     {
         "recylelevel": 3,
+        "recyclable": false,
         "name": "cloruro de polivinilo",
         "id": "PVC",
         "specs": [
@@ -58,6 +61,7 @@
     },
     {
         "recylelevel": 4,
+        "recyclable": true,
         "name": "polietileno de baja densidad",
         "id": "LDPE o PELD",
         "specs": [
@@ -78,6 +82,7 @@
     },
     {
         "recylelevel": 5,
+        "recyclable": true,
         "name": "polipropileno",
         "id": "PP",
         "specs": [
@@ -98,6 +103,7 @@
     },
     {
         "recylelevel": 6,
+        "recyclable": false,
         "name": "poliestireno",
         "id": "PS",
         "specs": [
@@ -117,6 +123,7 @@
     },
     {
         "recylelevel": 7,
+        "recyclable": false,
         "name": "others",
         "id": "",
         "specs": [
